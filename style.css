@@ -1,0 +1,47 @@
+#main.css{
+    margin:auto;
+    padding: auto;
+}
+div{
+    margin-bottom:10px;
+}
+h1{
+    text-align: center;
+}
+.container-fluid{
+    display: block;
+    margin:10px;
+    height:auto;
+    border:1px solid blue;
+    background-color: cyan ;
+}
+label{
+    display:inline-block;
+    width:150px;
+    text-align: right;
+}
+.vertical-center{
+    margin:150px;
+    top:50%;
+    position: absolute;
+    background-color: blue;
+    font-weight: bold;  
+}
+
+table th,td{
+    border:2px solid black;
+    height:50px;
+    text-align: center;
+   
+}
+#table{
+    margin-top: 15px;
+    background-color:cyan;
+    display: none;
+                
+}
+.container{
+    width:auto;
+    height:auto;
+
+}
